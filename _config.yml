@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: "Oh My Jean"
+title: Oh My Jean
 description: "面朝大海 春暖花开"
 github_username: 1018859849
 # you can comment the below line out if your repo name is not different than your baseurl
@@ -40,7 +40,7 @@ baseurl: "/oh_my_jean" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: jean16018602
-    github: 1018859849
+    github: "1018859849"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
